@@ -1,0 +1,7 @@
+title: 'Contact Us'
+email:
+  -
+    to: kaz
+    subject: 'Statamic Form Test'
+    html: default
+    text: default

@@ -1,0 +1,44 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: email
+        field:
+          input_type: email
+          antlers: false
+          display: Email
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+      -
+        handle: address_line
+        field:
+          input_type: text
+          antlers: false
+          display: 'Address Line'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+      -
+        handle: city
+        field:
+          input_type: text
+          antlers: false
+          display: City
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+      -
+        handle: postcode
+        field:
+          input_type: text
+          antlers: false
+          display: Postcode
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
